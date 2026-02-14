@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my projects, skills, certifications, and technical expertise.
 
 🌐 **Live Website:**  
-👉 https://shahiduddin1710.github.io/shahiduddin.github.io/
+👉 https://shahiduddin1710.github.io/
 
 ---
 
